@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923868150096",
+    "firebase_url": "https://cmsdb-id22.firebaseio.com",
+    "project_id": "cmsdb-id22",
+    "storage_bucket": "cmsdb-id22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923868150096:android:2145b4c7ae15d32ec39455",
+        "android_client_info": {
+          "package_name": "com.winsometechnosys.ordermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923868150096-hc8t2lvo253vt111lnuqc6k4b55nkii8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY99VhMUB9JTiTKTDER4IyEKxB3xyuDc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923868150096-hc8t2lvo253vt111lnuqc6k4b55nkii8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923868150096-q8rgta9ctuhgrnq0phv5g1dvo0kqi6dl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winsometechnosys.cms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
